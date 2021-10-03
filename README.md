@@ -20,15 +20,15 @@ Download the file Incentive_Compensation_Management_Conduct_Risk- Start.xlsx. Up
 Use the course videos and hands-on lab from Module 1 Creating Charts to help you complete these tasks.
 <h3>Tasks to perform:</h3>
 <ol>
-    <li>Total Incentives by Branch - as a bar chart, sorted in either ascending or descending order of Total Incentives, and change the chart title to Total Incentives by Branch. (Hint: Use the pivot table on Sheet1 to create the chart, and use Format on the Chart tab to change the chart title.)</li>
+<li>Total Incentives by Branch - as a bar chart, sorted in either ascending or descending order of Total Incentives, and change the chart title to Total Incentives by Branch. (Hint: Use the pivot table on Sheet1 to create the chart, and use Format on the Chart tab to change the chart title.)</li>
 
-    <li>Risk Score and Total Incentives by Period Description- as a line chart, and give the chart a title of Risk Score and Incentives by Period. (Hint: Use the pivot table on Sheet2 to create the chart, and use Chart Title on the Chart tab to add the chart title.)</li>
+<li>Risk Score and Total Incentives by Period Description- as a line chart, and give the chart a title of Risk Score and Incentives by Period. (Hint: Use the pivot table on Sheet2 to create the chart, and use Chart Title on the Chart tab to add the chart title.)</li>
 
-    <li>Complaints by Period description using Branch as filter – as a column chart and give the chart a title of Complaints by Period for All Branches. Use the filter for Period Description to show complaints for only October and November. (Hint: Use the pivot table on Sheet3 to create the chart, and use Chart Title on the Chart tab to change the chart title.)</li>
+<li>Complaints by Period description using Branch as filter – as a column chart and give the chart a title of Complaints by Period for All Branches. Use the filter for Period Description to show complaints for only October and November. (Hint: Use the pivot table on Sheet3 to create the chart, and use Chart Title on the Chart tab to change the chart title.)</li>
 
-    <li>Total Incentives by Region Name and Branch ID – as a column chart and give the chart a title of Incentives by Region Name and Branch. Also, remove the horizontal gridlines from the chart, put the legend on the left side of the chart, and color the series outline in green. (Hint: Use the pivot table on Sheet4 to create the chart, use Gridlines in the Axes group on the Chart tab to remove the gridlines, and use Format on the Chart tab to change the chart title, move the legend, and format the series outline color in green.)</li>
+<li>Total Incentives by Region Name and Branch ID – as a column chart and give the chart a title of Incentives by Region Name and Branch. Also, remove the horizontal gridlines from the chart, put the legend on the left side of the chart, and color the series outline in green. (Hint: Use the pivot table on Sheet4 to create the chart, use Gridlines in the Axes group on the Chart tab to remove the gridlines, and use Format on the Chart tab to change the chart title, move the legend, and format the series outline color in green.)</li>
 
-    <li>Save your workbook: Use Save As to save your completed workbook as Incentive_Compensation_Management_Conduct_Risk - End.xlsx.</li>
+<li>Save your workbook: Use Save As to save your completed workbook as Incentive_Compensation_Management_Conduct_Risk - End.xlsx.</li>
 </ol>
 Author(s)
 Rav Ahuja
