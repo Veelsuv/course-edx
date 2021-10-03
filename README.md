@@ -1,19 +1,19 @@
-Peer-graded Assignment Part 1 – Creating Visualizations Using Excel
+<h3>Peer-graded Assignment Part 1 – Creating Visualizations Using Excel</h3>
 
 Estimated time needed: 45 minutes
 
 In this hands-on lab you will create visualizations using Excel for the web.
-Software Used in this Assignment
+<h3>Software Used in this Assignment</h3>
 
 The instruction videos in this course use the full Excel Desktop version as this has all the available product features, but for the hands-on labs we will be using the free Excel for the web version as this is available to everyone.
 
 Although you can use the Excel Desktop software if you have access to this version, it is recommended that you use Excel for the web for the hands-on labs as the lab instructions specifically refer to this version, and there are some small differences in the interface and available features.
-Dataset Used in this Assignment
+<h3>Dataset Used in this Assignment</h3>
 
 The data set used in this lab comes from the following source: https://community.ibm.com/accelerators/?context=analytics\&type=Data\&product=Cognos%20Analytics\&industry=Banking in the IBM Accelerator Catalog. The Terms of use for such are located at https://developer.ibm.com/terms/ibm-developer-terms-of-use/.
 
 We are using a modified subset of the dataset for the lab. In order to follow the lab instructions successfully, please use the dataset provided with the lab, rather than the dataset from the original source.
-Guidelines for Submission
+<h3>Guidelines for Submission</h3>
 
 Download the file Incentive_Compensation_Management_Conduct_Risk- Start.xlsx. Upload and open the file in Excel for the web.
 
