@@ -15,7 +15,7 @@ The data set used in this lab comes from the following source: https://community
 We are using a modified subset of the dataset for the lab. In order to follow the lab instructions successfully, please use the dataset provided with the lab, rather than the dataset from the original source.
 <h3>Guidelines for Submission</h3>
 
-Download the file Incentive_Compensation_Management_Conduct_Risk- Start.xlsx. Upload and open the file in Excel for the web.
+Download the file <a href="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0130EN-SkillsNetwork/edX_final/data/Incentive-Compensation-Management-Conduct-Risk-Start.xlsx">Incentive_Compensation_Management_Conduct_Risk- Start.xlsx. </a>Upload and open the file in Excel for the web.
 
 Use the course videos and hands-on lab from Module 1 Creating Charts to help you complete these tasks.
 <h3>Tasks to perform:</h3>
